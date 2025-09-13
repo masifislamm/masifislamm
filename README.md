@@ -40,12 +40,13 @@
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45"><br>Tailwind</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45"><br>React</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="45"><br>Next.js</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="45"><br>Redis</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45"><br>MySQL</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45"><br>PostgreSQL</td>
   </tr>
   <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45"><br>PostgreSQL</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45"><br>AWS</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gcp" width="45"><br>GCP</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45"><br>Docker</td>
